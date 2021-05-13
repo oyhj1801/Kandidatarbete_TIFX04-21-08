@@ -4,7 +4,7 @@ Code written for Bachelor thesis TIFX04-21-08 at the Chalmers University of Tech
 All the code written during the work with our Bachelor thesis.
 
 Written by Øyvind:
-drive.py\n
+drive.py
 driveDel.py
 fit.py
 LabelMaker.py
