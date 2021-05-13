@@ -4,8 +4,17 @@ Code written for Bachelor thesis TIFX04-21-08 at the Chalmers University of Tech
 All the code written during the work with our Bachelor thesis.
 
 Written by Øyvind:
-
+drive.py
+driveDel.py
+fit.py
+LabelMaker.py
+trainingDistribution.py
+avgParamLabel.py
+labelComparator.py
 
 Written by Nils:
+behandling-o-modifiering.py
 
-Written by Elias and Maja:
+Written by Elias:
+
+Written by Maja:
