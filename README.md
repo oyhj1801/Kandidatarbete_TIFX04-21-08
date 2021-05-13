@@ -3,7 +3,7 @@ Code written for Bachelor thesis TIFX04-21-08 at the Chalmers University of Tech
 
 All the code written during the work with our Bachelor thesis.
 
-Written by Øyvind:\
+<b Written by Øyvind:>\
 fit.py: Functions used in converting and extracting and interpolating wanted data from raw watch-files into csv-files\
 drive.py: Downloading watch-files from Google Drive, calls functions from fit.py and uploads created csv-files to Google Drive\
 driveDel.py: Deletes all earlier created csv-files from watch-files from Google Drive\
