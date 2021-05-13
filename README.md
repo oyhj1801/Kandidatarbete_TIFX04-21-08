@@ -10,7 +10,7 @@ fit.py\
 LabelMaker.py\
 trainingDistribution.py\
 avgParamLabel.py\
-labelComparator.py\
+labelComparator.py
 
 Written by Nils:\
 behandling-o-modifiering.py
