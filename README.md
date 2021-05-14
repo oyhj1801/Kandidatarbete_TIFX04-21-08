@@ -9,7 +9,7 @@
   ***driveDel.py:*** Deletes all previously created csv-files from watch-files from Google Drive  
   ***labelMaker.py:*** Labels the datarows for ML  
   ***trainingDistribution.py:*** plots a histogram over trainingimpulse  
-  ***avgParamLabel.py:*** gets the average length, calories and trimp for all sessions in each label-class both indiviually and over individuals  
+  ***avgParamLabel.py:*** gets the average length, calories and trimp for all sessions in each label-class both indiviually and across individuals  
   ***labelComparator.py:*** compares the labels between the 3 methods of labeling  
 
 #### Written by Nils:
