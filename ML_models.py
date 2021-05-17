@@ -1,4 +1,4 @@
-#Written by Maja
+#Written by Maja and Elias
 
 # Import libraries
 import numpy as np
