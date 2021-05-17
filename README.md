@@ -16,4 +16,4 @@
   ***behandling-o-modifiering.py:*** Calculates paramters for each session for ML for of every participants and fills in gaps in the data
 
 #### Written by Maja and Elias:
- ***ML_Models.py:*** Does the ML with the labeled data and makes accuracy plots and tables
+ ***ML_models.py:*** Does the ML with the labeled data and makes accuracy plots and tables
